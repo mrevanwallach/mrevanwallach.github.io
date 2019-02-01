@@ -1,0 +1,69 @@
+.producticons {
+    height: 250px;
+}
+
+.bottomline {
+    padding: 10%;
+}
+
+.alltheproblems {
+    padding: 10%;
+}
+
+.somepadding {
+    padding: 10%;
+}
+
+.ourproducts {
+    margin-top: 6%;
+    width: 90%;
+    padding-left: 10%;
+}
+
+.navbarlogo {
+    height: 50px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+.productpageimage {
+    height: 200px;
+    width: 200px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.yourproblems {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.pppoints {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.footerclass {
+    margin: 0%;
+    padding: 0;
+}
+
+.contactinfo {
+    margin-top: 5%;
+    font-size: 36px;
+    align-content: center;
+}
+
+.abitofpadding {
+    padding: 5%;
+}
+
+.blog {
+    margin-top: 100px;
+}
